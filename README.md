@@ -9,9 +9,9 @@ Continuously learning new technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mau-14&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mau-14&show_icons=true&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mau-14&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mau-14&layout=compact&theme=gruvbox)
 
 ---
 
